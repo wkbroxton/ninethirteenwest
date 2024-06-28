@@ -5,7 +5,7 @@ const images = [
   "https://images.pexels.com/photos/936097/pexels-photo-936097.jpeg",
   "https://images.pexels.com/photos/1181351/pexels-photo-1181351.jpeg",
   "https://images.pexels.com/photos/936132/pexels-photo-936132.jpeg",
-  "https://images.pexels.com/photos/936115/pexels-photo-936115.jpeg",
+
   "https://images.pexels.com/photos/936144/pexels-photo-936144.jpeg",
   "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg",
 ];
