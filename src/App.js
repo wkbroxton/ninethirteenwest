@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Services from "./components/Services";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 import "./App.css"; // Global styles
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </div>
+      <Footer />
     </Router>
   );
 }
