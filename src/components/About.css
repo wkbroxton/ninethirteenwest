@@ -108,20 +108,19 @@ body {
 }
 
 .founder:hover {
-  transform: scale(1.05);
+  transform: scale(1.01);
   box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2);
 }
 
 .founder img {
-  width: 18em;
-  height: 18em;
+  width: 15em;
+  height: 15em;
   border-radius: 50%;
   margin-bottom: 1rem;
-  transition: transform 0.3s ease-in-out;
 }
 
 .founder img:hover {
-  transform: scale(1.1);
+  transform: scale(1.001);
 }
 
 .founder h3 {
