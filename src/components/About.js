@@ -41,7 +41,7 @@ const About = () => {
         <div className="founders">
           <div className="founder">
             <img
-              src="public/founder1.jpg"
+              src="https://images.squarespace-cdn.com/content/v1/65e1e024b19d2c14209ba7f5/a7d3d252-813d-465b-90ef-932ce08fa337/Broxton_EDIT-8_8x10.jpg?format=2500w"
               alt="William Kevin Broxton Headshot"
               className="founder-image"
             />
@@ -97,7 +97,7 @@ const About = () => {
           </div>
           <div className="founder">
             <img
-              src="public/founder2.jpg"
+              src="https://images.squarespace-cdn.com/content/v1/65e1e024b19d2c14209ba7f5/e3a9a083-92ef-4c59-a0d1-6dcc1eceb57e/Broxton_Fam-1374.jpg?format=2500w"
               alt="Samantha Broxton Headshot"
               className="founder-image"
             />

@@ -1,7 +1,12 @@
 import React from "react";
-import "./Gallery2.css"; // Ensure this CSS file is created
+import "./Gallery2.css";
 
 const images = [
+  "https://images.pexels.com/photos/3810760/pexels-photo-3810760.jpeg",
+  "https://images.pexels.com/photos/3810758/pexels-photo-3810758.jpeg",
+  "https://images.pexels.com/photos/3810754/pexels-photo-3810754.jpeg",
+  "https://images.pexels.com/photos/3810730/pexels-photo-3810730.jpeg",
+  "https://images.pexels.com/photos/3810727/pexels-photo-3810727.jpeg",
   "https://images.pexels.com/photos/936150/pexels-photo-936150.jpeg",
   "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg",
   "https://images.pexels.com/photos/936114/pexels-photo-936114.jpeg",

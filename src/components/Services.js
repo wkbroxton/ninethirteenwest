@@ -8,6 +8,7 @@ import Gallery2 from "./Gallery2";
 const Home = () => {
   return (
     <div className="home">
+      <Gallery2 />
       <div className="services-section">
         <h2>Our Services</h2>
         <div className="services">
@@ -44,7 +45,6 @@ const Home = () => {
         </div>
       </div>
       <Gallery1 />
-      <Gallery2 />
     </div>
   );
 };
