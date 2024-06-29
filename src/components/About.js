@@ -151,11 +151,6 @@ const About = () => {
                 managing multi-million-dollar portfolios, performing financial
                 analysis, and developing strategies to improve loan performance.
               </p>
-              <p>
-                Samantha also co-founded THE MOCHA STOREHOUSE, LLC, where she
-                provided consulting and web development services for small
-                businesses and nonprofits.
-              </p>
             </div>
           </div>
         </div>

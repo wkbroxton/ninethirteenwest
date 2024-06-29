@@ -1,5 +1,5 @@
 import React from "react";
-import "./Footer.css"; // Ensure this CSS file is created
+import "./Footer.css";
 
 const Footer = () => {
   return (
@@ -7,21 +7,21 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-section">
           <h3>Contact Us</h3>
-          <p>123 Main Street, Anytown, USA</p>
-          <p>Phone: (123) 456-7890</p>
-          <p>Email: contact@ninethirteenwest.com</p>
+          <p>Orange County, CA USA</p>
+          <p>Phone: (949) 229-5213</p>
+          <p>Email: william@ninethirteenwest.com</p>
         </div>
         <div className="footer-section">
           <h3>Follow Us</h3>
           <div className="socials">
             <a
-              href="https://www.facebook.com"
+              href="https://www.facebook.com/ninethirteenwest"
               target="_blank"
               rel="noopener noreferrer"
             >
               Facebook
             </a>
-            <a
+            {/* <a
               href="https://www.twitter.com"
               target="_blank"
               rel="noopener noreferrer"
@@ -34,9 +34,9 @@ const Footer = () => {
               rel="noopener noreferrer"
             >
               Instagram
-            </a>
+            </a> */}
             <a
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/company/nine-thirteen-west"
               target="_blank"
               rel="noopener noreferrer"
             >

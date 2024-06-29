@@ -1,13 +1,17 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./Navbar.css"; // Ensure you have this CSS file
+import "./Navbar.css"; // Ensure this CSS file is created
 
 const Navbar = () => {
   return (
     <nav className="navbar">
-      <div className="navbar-logo">
-        <Link to="/">Nine Thirteen West</Link>
-      </div>
+      <Link to="/" className="navbar-logo">
+        <img
+          src={`${process.env.PUBLIC_URL}/logo.png`}
+          alt="Nine Thirteen West Logo"
+          className="logo-image"
+        />
+      </Link>
       <ul className="navbar-links">
         <li>
           <Link to="/">Home</Link>

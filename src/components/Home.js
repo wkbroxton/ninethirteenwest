@@ -9,7 +9,8 @@ const Home = () => {
       <div className="hero-section">
         <div className="hero-overlay"></div>
         <div className="hero-content">
-          <h1>Welcome to Nine Thirteen West</h1>
+          <h1>Welcome to</h1>
+          <h1>Nine Thirteen West</h1>
           <p>
             Empowering non-profits and small businesses with innovative
             consultancy services that bridge the gap between dreams and reality.

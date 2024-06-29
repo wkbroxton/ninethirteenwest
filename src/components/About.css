@@ -7,7 +7,7 @@ body {
 }
 
 .about-section {
-  padding: 4rem 2rem;
+  padding: 8rem 20rem;
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
   text-align: center;
 }
@@ -113,8 +113,8 @@ body {
 }
 
 .founder img {
-  width: 15em;
-  height: 15em;
+  width: auto;
+  height: 30vh;
   border-radius: 50%;
   margin-bottom: 1rem;
 }
