@@ -37,7 +37,7 @@ const About = () => {
         </div>
       </div>
       <div className="founders-section">
-        <h2>Meet Our Founders</h2>
+        <h2>Meet Our Team</h2>
         <div className="founders">
           <div className="founder">
             <img
@@ -46,6 +46,7 @@ const About = () => {
               className="founder-image"
             />
             <h3>William Kevin Broxton</h3>
+            <h4>FOUNDER</h4>
             <div className="founder-bio">
               <p>
                 William Kevin Broxton is a multifaceted professional whose
@@ -102,6 +103,7 @@ const About = () => {
               className="founder-image"
             />
             <h3>Samantha Broxton</h3>
+            <h4>ADVISOR</h4>
             <div className="founder-bio">
               <p>
                 Samantha Broxton is a seasoned professional with extensive
