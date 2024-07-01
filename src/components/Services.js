@@ -14,7 +14,10 @@ const Home = () => {
         <div className="services">
           <Link to="/program-management" className="service-card">
             <h3>Program and Project Management</h3>
-            <p>Expertise in fostering vibrant and connected communities.</p>
+            <p>
+              Strategic planning and execution to ensure projects are completed
+              on time, within budget, and to high standards.
+            </p>
           </Link>
           <Link to="/community-building" className="service-card">
             <h3>Community Building</h3>
@@ -36,11 +39,17 @@ const Home = () => {
           </Link>
           <Link to="/staff-training" className="service-card">
             <h3>Staff Training & Development</h3>
-            <p>Expertise in fostering vibrant and connected communities.</p>
+            <p>
+              Customized programs to enhance employee skills and knowledge for
+              organizational growth and success.
+            </p>
           </Link>
           <Link to="/technology-systems" className="service-card">
             <h3>Technology & Information Systems</h3>
-            <p>Expertise in fostering vibrant and connected communities.</p>
+            <p>
+              Implementing and managing technology solutions to streamline
+              operations, enhance data security, and boost productivity.
+            </p>
           </Link>
         </div>
       </div>
